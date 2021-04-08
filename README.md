@@ -1,4 +1,4 @@
-<h3>👨🏼‍💻Mika's GIT</h3> 
+<h2>👨🏼‍💻Mika's GIT</h2> 
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2everlove&show_icons=true&theme=radical)
