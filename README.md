@@ -1,6 +1,6 @@
 <h3>👨🏼‍💻Mika's GIT</h3> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2everlove&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2everlove&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2everlove&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="mailto:2everlove@gmail.com">
