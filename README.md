@@ -1,9 +1,9 @@
 <h3>👨🏼‍💻Mika's GIT</h3> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/2evelove/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2everlove&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/2everlove/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2everlove&repo=convoychat" />
 </a>
 
