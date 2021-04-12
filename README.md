@@ -1,4 +1,4 @@
-<h2><a href="https://2everlove.github.io/portfolio/">👨🏼‍💻Mika's GIT<sub>HomePage</sub></a></h2> 
+<h2>👨🏼‍💻Mika's GIT<a href="https://2everlove.github.io/portfolio/"><sub>&lt;HomePage&gt;</sub></a></h2> 
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2everlove&show_icons=true&theme=radical)
