@@ -1,4 +1,6 @@
 <h2>👨🏼‍💻Mika's GIT<a href="https://2everlove.github.io/portfolio/" target="_blank"><sub>&lt;HomePage&gt;</sub></a></h2> 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2everlove&count_bg=%238AC75B&title_bg=%238B8B8B&icon=tinder.svg&icon_color=%23FF8900&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2everlove&show_icons=true&theme=radical)
@@ -7,8 +9,15 @@
 <hr>
 
 <a href="mailto:2everlove@gmail.com" style="text-align: right;">
-<img src="https://camo.githubusercontent.com/f504456c443a6bd90b432315b92c0396d1093dd2332480ff8490df48e9534131/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6b3339333335323540676d61696c2e636f6d" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:k3933525@gmail.com" style="max-width:100%;"></a>
+  
+  ![Gmail](https://img.shields.io/badge/Send-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)
+  
+</a>
 <!---
 2everlove/2everlove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
